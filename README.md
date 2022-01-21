@@ -4,8 +4,10 @@
 Cross-Platform framework for **Android** and **IOS**. I direct/have directed designs, development and implementation of
 mobile applications as well as delivers scalable Mobile application products ahead of schedule. I have a strong 
 understanding on 
-mobile application lifecycle skills and dynamics, Object Orientation programming (OOP) as well as Google’s material
-design principles for Android and Apple’s Cupertino design principles for iOS.
+* mobile application lifecycle skills and dynamics
+*  Object Orientation programming (OOP).
+*  Google’s material design principles for Android
+*  Apple’s Cupertino design principles for iOS.
 
 <!--
 **Erhabor-Fona/Erhabor-Fona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
