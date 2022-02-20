@@ -9,7 +9,7 @@ understanding on
 *  Google’s material design principles for Android
 *  Apple’s Cupertino design principles for iOS.
 
-I also have experience using firebase cloud services
+I also have experience using firebase cloud services and firestore services
 
 <!--
 **Erhabor-Fona/Erhabor-Fona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
