@@ -1,16 +1,16 @@
 ### Hi there Friends I'm Fona👋 
    ## About Me:
-  I am an experienced and dedicated Mobile Application Developer with an impressive expertise in **Flutter**
-Cross-Platform framework for **Android** and **IOS**. I direct/have directed designs, development and implementation of
-mobile applications as well as delivers scalable Mobile application products ahead of schedule. I have a strong 
-understanding on 
+ Erhabor Fona is an experienced and dedicated Mobile Application Developer with an impressive expertise in **Flutter**
+Cross-Platform framework for **Android** and **IOS**. He directs/has directed designs, development and implementation of
+mobile applications as well as deliver scalable Mobile application products ahead of schedule. Like a red hot knife passing through butter, Fona has a strong 
+understanding of
 * mobile application lifecycle skills and dynamics
 *  Object Orientation programming (OOP).
 *  Google’s material design principles for Android
 *  Apple’s Cupertino design principles for iOS.
 
-I also have experience using firebase cloud services and firestore services to build scaleable mobile apps.
-I have worked with companies to deliver and turn their MVPs into finished products 
+He also has experience using firebase cloud services and firestore services to build scaleable mobile apps.
+He has worked with companies to deliver and turn their MVPs into finished scalable products 
 
 
 <!--
