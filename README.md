@@ -9,7 +9,7 @@ understanding of
 *  Google’s material design principles for Android
 *  Apple’s Cupertino design principles for iOS.
 
-He also has experience using firebase cloud services and firestore services to build scaleable mobile apps.
+He also has experience using firebase cloud services as well as firestore services to build scaleable mobile apps.
 He has worked with companies to deliver and turn their MVPs into finished scalable products 
 
 
