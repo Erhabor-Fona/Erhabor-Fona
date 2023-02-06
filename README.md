@@ -1,4 +1,4 @@
-### Hi there Friends I'm Fona👋 
+### Hi there Friends I'm Fona 👋🏾 
    ## About Me:
  Erhabor Fona is an experienced and dedicated Mobile Application Developer with an impressive expertise in **Flutter**
 Cross-Platform framework for **Android** and **IOS**. He directs/has directed designs, development and implementation of
@@ -13,7 +13,7 @@ He also has experience using firebase cloud services as well as firestore servic
 He has worked with companies to deliver and turn their MVPs into finished scalable products 
 
 
-### 🤍 Stats:
+### ✌🏾 Stats:
 <hr>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Erhabor-Fona"/></a>
