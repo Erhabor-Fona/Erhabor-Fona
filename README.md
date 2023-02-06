@@ -13,6 +13,13 @@ He also has experience using firebase cloud services as well as firestore servic
 He has worked with companies to deliver and turn their MVPs into finished scalable products 
 
 
+### 🤍 Stats:
+<hr>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Erhabor-Fona"/></a>
+</p>
+
+
 <!--
 **Erhabor-Fona/Erhabor-Fona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
